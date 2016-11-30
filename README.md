@@ -24,4 +24,3 @@ This is a modified version of hexo-theme-next.
 [Online Preview](https://ldbeth.github.io)
 
 ![blog](nightmare.png)
-# hexp-theme-nightmare
