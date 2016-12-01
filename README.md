@@ -3,7 +3,7 @@
 This is a modified version of hexo-theme-next.
 
 > *Warning:*
-> This is not prepared to work yet.
+> This is not prepared to work properly yet.
 
 
 ## NexT
@@ -24,3 +24,13 @@ This is a modified version of hexo-theme-next.
 [Online Preview](https://ldbeth.github.io)
 
 ![blog](nightmare.png)
+
+
+## TODO list
+
+* Remove some unnecessary functions.
+* Add some prefered functions:
+    + Pin at the top
+    + Hide some posts in index
+    + IRC support
+* Add FAQ
