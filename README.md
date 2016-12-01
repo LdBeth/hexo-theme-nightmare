@@ -28,9 +28,13 @@ This is a modified version of hexo-theme-next.
 
 ## TODO list
 
-* Remove some unnecessary functions.
+* Remove some unnecessary features.
 * Add some prefered functions:
     + Pin at the top
     + Hide some posts in index
     + IRC support
-* Add FAQ
+
+* Add a list for the colors used
+* Something else
+
+
